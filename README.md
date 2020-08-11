@@ -1,4 +1,4 @@
-# Capstone-Die-Zeit
+# Capstone-Die-ZEIT
 
 by Sebastian Fuhrer (fuhrer_sebastian@web.de)
 
