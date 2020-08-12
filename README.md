@@ -2,6 +2,8 @@
 
 by Sebastian Fuhrer (fuhrer_sebastian@web.de)
 
+https://miro.medium.com/max/700/1*WqId29D5dN_8DhiYQcHa2w.png
+
 Objective:
 
 Churn Prediction (Who cancel their subscription within the next year?)
