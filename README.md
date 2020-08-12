@@ -2,7 +2,7 @@
 
 by Sebastian Fuhrer (fuhrer_sebastian@web.de)
 
-Format: ![Alt Text](https://miro.medium.com/max/700/1*WqId29D5dN_8DhiYQcHa2w.png)
+![Alt Text](https://miro.medium.com/max/700/1*WqId29D5dN_8DhiYQcHa2w.png)
 
 Objective:
 
